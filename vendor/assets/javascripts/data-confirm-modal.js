@@ -38,7 +38,7 @@
   var defaults = {
     title: 'Are you ABSOLUTELY sure?',
     commit: 'Confirm',
-    commitClass: 'btn-danger',
+    commitClass: 'btn-default',
     cancel: 'Cancel',
     cancelClass: 'btn-default',
     verifyClass: '',
