@@ -104,7 +104,7 @@
     });
     // add the fontawesome icon
     if (element.data('iconclass')) {
-      modal.find('.modal-icon i.fa').addClass('fa-exclamation-circle');
+      modal.find('.modal-icon i.fa').addClass('fa-exclamation-triangle');
       var color = element.data('iconcolor') || settings.iconcolor;
       modal.find('.modal-icon i.fa').css('color', color);
     } else {
